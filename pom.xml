@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.artion</groupId>
-    <artifactId>spring-boot-data-jpa</artifactId>
+    <artifactId>spring-boot-heroku</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-data-jpa</name>
-    <description>spring-boot-data-jpa</description>
+    <name>spring-boot-heroku</name>
+    <description>spring-boot-heroku</description>
     <properties>
         <java.version>11</java.version>
     </properties>
